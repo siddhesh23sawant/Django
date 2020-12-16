@@ -1,0 +1,4 @@
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, online_courses, sessions
+Running migrations:
+  Applying online_courses.0002_auto_20201014_1354... OK
